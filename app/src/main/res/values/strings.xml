@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Budgeting App v1</string>
+
+    <string name="title_hint">Title</string>
+    <string name="recipient_hint">Recipient</string>
+    <string name="date_hint">Date</string>
+    <string name="amount_hint">Amount</string>
+    <string name="name_hint">Name</string>
+    <string name="input_recurring">Recurring Transaction</string>
+
+    <string name="save_button">Save</string>
+    <string name="cancel_button">Cancel</string>
+
+    <string name="add_transaction_msg">Add a transaction</string>
+    <string name="category_placeholder">Category</string>
+    <string name="color_picker_btn">Pick Color</string>
+
+    <string name="transactionsLabel">"Transactions</string>
+    <string name="budgetLabel">"Budget</string>
+    <string name="analysisLabel">"Analysis</string>
+    <string name="toolsLabel">"Tools</string>
+
+    <string name="poundText">£</string>
+    <string name="categoriesLabel">Categories</string>
+    <string name="input_essential">Essential</string>
+    <string name="notificationsLabel">Notifications</string>
+    <string name="tipsLabel">Tips</string>
+    <string name="settingsLabel">Settings</string>
+    <string name="clear_data">Clear All Saved Data</string>
+    <string name="contact">Contact us</string>
+    <string name="recurring_Exp">Recurring Expenses</string>
+    <string name="food_tracker">Food Tracker</string>
+    <string name="username_hint">Username</string>
+    <string name="budget_hint">Budget</string>
+    <string name="income_hint">Income</string>
+    <string name="finish_btn">Finish</string>
+    <string name="icon_picker_btn">Upload Image</string>
+    <string name="grocery_hint">Groceries List</string>
+</resources>

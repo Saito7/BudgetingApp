@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/transactionFragment"
+        android:title="@string/transactionsLabel"
+        android:icon="@drawable/ic_baseline_business_center_24" />
+
+    <item
+        android:id="@+id/budgetFragment"
+        android:title="@string/budgetLabel"
+        android:icon="@drawable/ic_baseline_attach_money_24" />
+
+    <item
+        android:id="@+id/placeholder"
+        android:title="" />
+
+    <item
+        android:id="@+id/analysisFragment"
+        android:title="@string/analysisLabel"
+        android:icon="@drawable/ic_baseline_analytics_24" />
+
+    <item
+        android:id="@+id/toolsFragment"
+        android:icon="@drawable/ic_baseline_apps_24"
+        android:title="@string/toolsLabel" />
+
+</menu>
